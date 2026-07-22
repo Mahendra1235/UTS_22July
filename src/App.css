@@ -68,7 +68,8 @@ nav .logo-link {
 }
 
 nav .nav-logo {
-  height: 82px;
+  padding:10px;
+  height: 110px;
   width: auto;
   object-fit: contain;
   transition: var(--transition);
